@@ -1,0 +1,12 @@
+#echo "cj"
+
+export CJKOSS_ZSH=1
+export HOME=$ZDOTDIR
+export PS1="cj %~ %# "
+
+eval "$(/opt/homebrew/bin/brew shellenv)"
+
+cd $HOME
+
+
+

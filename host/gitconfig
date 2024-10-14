@@ -1,0 +1,8 @@
+[alias]
+        co = checkout
+        ci = commit
+[user]
+        name = cjkoss 
+        email = cjkoss@github.com 
+
+
